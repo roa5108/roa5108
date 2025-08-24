@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EE7752,100:23A6D5&height=270&section=header&text=Hi%20there!%20I'm%20Roa%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=roa5108&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/roa5108"
+  width="600"
+  height="300"
+/>
+</a>
 <br>
 
 ## 🛠️ Tech Stack
