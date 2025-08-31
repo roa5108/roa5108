@@ -71,5 +71,5 @@
 
 <br>
 
-- 📮 **Email**: roa5108@gmail.com  
+- 📮 **Email**: roakim.dev@gmail.com  
 - 📝 **이력서 (Notion)**: [바로가기](https://www.notion.so/your-resume-link)
